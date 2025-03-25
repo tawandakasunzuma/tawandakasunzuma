@@ -41,8 +41,6 @@
   <img align="center" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 </p>
 
----
-
 ### 🏆 Soft Skills
 
 - 🤝 Teamwork & Collaboration
@@ -52,16 +50,16 @@
 - 💡 Creativity
 - 💪 Work Ethic
 
-<!--
-**tawandakasunzuma/tawandakasunzuma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 📫 Connect with Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/tawandakasunzuma)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tawanda-kasunzuma/)  
+📧 Email: [tskasunzuma@gmail.com](mailto:@example.com)
+
+---
+
+## 🏆 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tawandakasunzuma&show_icons=true&theme=radical)
