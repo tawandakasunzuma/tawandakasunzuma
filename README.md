@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Tawanda Kasunzuma
+# 👋 Hi, I'm Tawanda
 
 **`Front-end Developer`**
 
