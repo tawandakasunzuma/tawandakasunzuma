@@ -29,7 +29,7 @@ I'm Tawanda Kasunzuma, a front-end developer with 1 year of web development prac
 
 ---
 
-##Tech Stack
+## Tech stack
 
 ### Languages:
 
