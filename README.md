@@ -6,10 +6,6 @@
 
 ## About Me
 
-### Short Bio
-
-I'm Tawanda Kasunzuma, a front-end developer with 1 year of web development practice. I started with Python and now focus on JavaScript, building creative and user-friendly web applications. Always eager to grow and collaborate on exciting new challenges.
-
 ### My Learning Journey
 
 • 🙋‍♂️ I'm an aspiring developer currently studying at Codespace.  
@@ -26,6 +22,10 @@ I'm Tawanda Kasunzuma, a front-end developer with 1 year of web development prac
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/tawandakasunzuma)  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tawanda-kasunzuma/)  
+
+### Short Bio
+
+I'm Tawanda Kasunzuma, a front-end developer with 1 year of web development practice. I started with Python and now focus on JavaScript, building creative and user-friendly web applications. Always eager to grow and collaborate on exciting new challenges.
 
 ---
 
