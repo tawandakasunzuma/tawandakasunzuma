@@ -8,7 +8,7 @@
 
 ### Short Bio
 
-I'm Tawanda Kasunzuma, a front-end developer with 2 years of web development experience. I started with Python and now focus on JavaScript, building intuitive and user-friendly web applications. Always eager to grow and collaborate on exciting new challenges.
+I'm Tawanda Kasunzuma, a front-end developer with 1 year of web development practice. I started with Python and now focus on JavaScript, building intuitive and user-friendly web applications. Always eager to grow and collaborate on exciting new challenges.
 
 ### My Learning Journey
 
