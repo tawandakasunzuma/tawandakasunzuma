@@ -6,15 +6,23 @@
 
 ## About Me
 
+### Short Bio
+
+I'm Tawanda Kasunzuma, a front-end developer with 2 years of web development experience. I started with Python and now focus on JavaScript, building intuitive and user-friendly web applications. Always eager to grow and collaborate on exciting new challenges.
+
+### My Learning Journey
+
 • 🙋‍♂️ I'm an aspiring developer currently studying at Codespace.  
 • 🌱 I’m currently learning **JavaScript**.  
 • 📚 I'm interested in learning **React**, **Angular** or **Vue**.  
 • 🤖 I love problem-solving and working on creative projects.  
-<br>
-📧 Email: [tskasunzuma@gmail.com](mailto:@example.com)
+• ⚡ *Fun fact: I can solve a Rubik’s cube and love making music.*
 
-• ⚡ *Fun fact: I can solve a Rubik’s cube and love making music.*  
+### Connect with me
 
+📧 Email: [tskasunzuma@gmail.com](mailto:@example.com)  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/tawandakasunzuma)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tawanda-kasunzuma/)  
 
 ---
 
@@ -51,13 +59,6 @@
 - 🚀 Adaptability
 - 💡 Creativity
 - 💪 Work Ethic
-
----
-
-## 📫 Connect with Me
-
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/tawandakasunzuma)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tawanda-kasunzuma/)  
 
 ---
 
