@@ -15,7 +15,8 @@ I'm Tawanda Kasunzuma, a front-end developer with 1 year of web development prac
 - 🙋‍♂️ I'm an aspiring developer currently studying at Codespace.  
 - 🌱 I’m currently learning **JavaScript**.  
 - 📚 I'm interested in learning **React**, **Angular** or **Vue**.  
-- 🤖 I love problem-solving and working on creative projects.  
+- 🤖 I love problem-solving and working on creative projects.
+</br>
 - ⚡ *Fun fact: I can solve a Rubik’s cube and I love making music.*
 
 ### Connect with me
