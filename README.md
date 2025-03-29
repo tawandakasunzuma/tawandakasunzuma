@@ -18,7 +18,7 @@ Welcome to my Github! I'm a passionate front-end developer who loves learning. I
 
 ## Connect with me
 
-📧 Email: [tskasunzuma@gmail.com](mailto:@example.com)  
+📧 Email: [tskasunzuma@gmail.com](mailto:tskasunzuma@gmail.com)  
 
 ### Socials  
 
