@@ -10,9 +10,10 @@ Welcome to my Github! I'm a passionate front-end developer who loves learning. I
 
 ## About Me
 
-- 🙋‍♂️ I'm an aspiring developer currently studying at Codespace.  
-- 🌱 I’m currently learning **JavaScript**.  
-- 📚 I'm interested in learning **React** and **React Native**.  
+- 🙋‍♂️ Aspiring developer currently studying at Codespace.  
+- 🌱 Currently learning **JavaScript**.  
+- 📚 Interested in learning **React** and **React Native**.
+- 🧱 Developing a music app for both web and mobile platforms.  
 - 🤖 I love problem-solving and working on creative projects.
 - ⚡ *Fun fact: I can solve a Rubik’s cube, and I love making music.*
 
