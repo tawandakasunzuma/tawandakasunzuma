@@ -65,6 +65,6 @@ Welcome to my Github! I'm a passionate front-end developer who loves learning. I
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![Tawanda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tawandakasunzuma&theme=graywhite&show_icons=true)
