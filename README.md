@@ -4,7 +4,7 @@
 
 ---
 
-Welcome to my Github! I'm a passionate and creative front-end developer who loves learning. I started with Python and now focus on JavaScript, building creative and user-friendly web applications. Always eager to grow and collaborate on exciting new challenges.
+Welcome to my Github! I'm a passionate front-end developer who loves learning. I started with Python and now focus on JavaScript, building creative and user-friendly web applications. Always eager to grow and collaborate on exciting new challenges.
 
 ---
 
