@@ -14,7 +14,7 @@ Welcome to my Github! I'm a passionate front-end developer who loves learning. I
 - 🌱 I’m currently learning **JavaScript**.  
 - 📚 I'm interested in learning **React** and **React Native**.  
 - 🤖 I love problem-solving and working on creative projects.
-- ⚡ *Fun fact: I can solve a Rubik’s cube and I love making music.*
+- ⚡ *Fun fact: I can solve a Rubik’s cube, and I love making music.*
 
 ---
 
