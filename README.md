@@ -1,10 +1,10 @@
-# 👋 Hi, I'm Tawanda
+# 👋 Hi, I'm Tawanda Kasunzuma
 
 **`Front-end Developer`**
 
 ---
 
-I'm Tawanda Kasunzuma, a front-end developer with 1 year of web development practice. I started with Python and now focus on JavaScript, building creative and user-friendly web applications. Always eager to grow and collaborate on exciting new challenges.
+Welcome to my Github! I'm a passionate and creative front-end developer who loves learning. I started with Python and now focus on JavaScript, building creative and user-friendly web applications. Always eager to grow and collaborate on exciting new challenges.
 
 ---
 
