@@ -16,6 +16,8 @@ Welcome to my Github! I'm a passionate front-end developer who loves learning. I
 - 🤖 I love problem-solving and working on creative projects.
 - ⚡ *Fun fact: I can solve a Rubik’s cube and I love making music.*
 
+---
+
 ## Connect with me
 
 📧 Email: [tskasunzuma@gmail.com](mailto:tskasunzuma@gmail.com)  
