@@ -9,7 +9,7 @@ Welcome to my Github! I'm a passionate front-end developer who loves learning. I
 ## About Me
 
 - 🙋‍♂️ Aspiring developer currently studying at Codespace.  
-- 🌱 Currently learning **React**. 
+- 🌱 Currently learning **Next.js**. 
 - 📚 Interested in learning **React Native**.
 - 🧱 Developing a music app for both web and mobile platforms.  
 - 🤖 I love problem-solving and working on creative projects.
