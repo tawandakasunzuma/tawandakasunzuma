@@ -9,7 +9,7 @@ Welcome to my Github! I'm a passionate front-end developer who loves learning. I
 ## About Me
 
 - 🎓 Recent graduate from CodeSpace.
-- 🌱 Currently learning **Next.js**. 
+- 🌱 Currently learning **Angular**. 
 - 📚 Interested in learning **React Native**.
 - 🧱 Developing a music app for both web and mobile platforms.  
 - 🤖 I love problem-solving and working on creative projects.
@@ -53,6 +53,12 @@ Welcome to my Github! I'm a passionate front-end developer who loves learning. I
   <img align="center" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
   <img align="center" alt="Figma" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+</p>
+
+### Testing:
+
+<p align="left">
+  <img align="center" alt="Jest" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" />
 </p>
           
 ---
