@@ -1,18 +1,18 @@
 # 👋 Hi, I'm Tawanda Kasunzuma
 
-**`Front-end Developer`**
+**`Full-Stack Developer`**
 
-Welcome to my Github! I'm a passionate front-end developer who loves learning. I started with Python and JavaScript, now focus on React, building creative and user-friendly web applications. Always eager to grow and collaborate on exciting new challenges.
+Welcome to my Github! I'm a passionate developer who loves creating clean, reliable, and user-focused applications. My journey began with JavaScript and has grown to span both front-end and back-end development, including database work. I'm currently expanding my skills even further through an internship. Always learning, always building.
 
 ---
 
 ## About Me
 
 - 🎓 Recent graduate from CodeSpace.
-- 🌱 Currently learning **Angular**. 
-- 📚 Interested in learning **React Native**.
+- 🌱 Currently growing my skills through an internship at Shaper.
+- 📚 Learning more about modern front-end frameworks and mobile development.
 - 🧱 Developing a music app for both web and mobile platforms.  
-- 🤖 I love problem-solving and working on creative projects.
+- 🤖 I enjoy problem-solving and working on creative, meaningful projects.
 - ⚡ *Fun fact: I can solve a Rubik’s cube, and I love making music.*
 
 ---
@@ -37,14 +37,18 @@ Welcome to my Github! I'm a passionate front-end developer who loves learning. I
   <img align="center" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
   <img align="center" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
   <img align="center" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+  <img align="center" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+  <img align="center" alt="SQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 </p>
 
-### Frameworks/Libraries:
+### Frameworks / Libraries:
 
 <p align="left">
+  <img align="center" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+  <img align="center" alt="NgRx" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/ngrx/platform/master/projects/ngrx.io/src/assets/images/badge.svg" />
+  <img align="center" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
   <img align="center" alt="Tailwind CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
   <img align="center" alt="Bootstrap" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
-  <img align="center" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
 </p>
 
 ### Tools:
@@ -52,6 +56,7 @@ Welcome to my Github! I'm a passionate front-end developer who loves learning. I
 <p align="left">
   <img align="center" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" alt="GitHub" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" />
+  <img align="center" alt="VS Code" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img align="center" alt="Figma" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
 </p>
 
@@ -60,17 +65,17 @@ Welcome to my Github! I'm a passionate front-end developer who loves learning. I
 <p align="left">
   <img align="center" alt="Jest" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" />
 </p>
+
           
 ---
 
 ## Soft Skills
-
-- 🤝 Teamwork & Collaboration
-- 📢 Communication Skills
-- 🎯 Problem-Solving
-- 🚀 Adaptability
-- 💡 Creativity
-- 💪 Work Ethic
+- 🤝 Strong teamwork & collaboration
+- 📢 Clear and effective communication
+- 🎯 Analytical problem-solving
+- 🚀 Adaptable and quick to learn
+- 💡 Creative thinking and innovation
+- 💪 Consistent work ethic and reliability
 
 ---
 
