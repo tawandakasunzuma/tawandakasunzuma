@@ -8,12 +8,12 @@ Welcome to my Github! I'm a passionate developer who loves creating clean, relia
 
 ## About Me
 
-- 🎓 Recent graduate from CodeSpace.
-- 🌱 Currently growing my skills through an internship at Shaper.
-- 📚 Learning more about modern front-end frameworks and mobile development.
-- 🧱 Developing a music app for both web and mobile platforms.  
-- 🤖 I enjoy problem-solving and working on creative, meaningful projects.
-- ⚡ *Fun fact: I can solve a Rubik’s cube, and I love making music.*
+- 🎓 Graduated from CodeSpace.  
+- 🌱 Growing my skills through an internship at Shaper.  
+- 📚 Learning more about front-end frameworks and mobile development.  
+- 🧱 Planning a music app for web and mobile.  
+- 🤖 Enjoy solving problems and building creative projects.  
+- ⚡ *Fun fact: I can solve a Rubik’s cube and I love making music.*  
 
 ---
 
