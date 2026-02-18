@@ -82,4 +82,5 @@ Welcome to my Github! I'm a passionate developer who loves creating clean, relia
 
 ## GitHub Stats
 
-![Tawanda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tawandakasunzuma&theme=graywhite&show_icons=true)
+![Tawanda's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tawandakasunzuma&theme=github)
+
